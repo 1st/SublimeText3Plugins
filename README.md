@@ -32,6 +32,11 @@ scepific for your OS, and you can prepare before follow instruction.
 You can read [official Sublime Text documentation](http://docs.sublimetext.info/en/latest/)
 
 
+#### Read also
+
+ - http://harrywolff.com/upgrading-to-sublime-text-3/
+
+
 
 Install Sublime Text 3 compatible plugins
 --------
