@@ -57,7 +57,7 @@ The best plugin is [SublimeLinter](https://github.com/SublimeLinter/SublimeLinte
 Branch `sublime-text-3`.
 
  - go to "Packages" folder
- - `git clone https://github.com/SublimeLinter/SublimeLinter.git`
+ - `git clone https://github.com/SublimeLinter/SublimeLinter.git SublimeLinter`
  - `cd SublimeLinter`
  - `git checkout sublime-text-3`
  
