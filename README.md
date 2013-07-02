@@ -61,3 +61,11 @@ Branch `sublime-text-3`.
  - `cd SublimeLinter`
  - `git checkout sublime-text-3`
  
+
+#### Python PEP8 Autoformat support in Sublime Text 3
+
+The best plugin is [Python PEP8 Autoformat](https://bitbucket.org/StephaneBunel/pythonpep8autoformat).
+
+ - go to "Packages" folder
+ - `hg clone https://bitbucket.org/StephaneBunel/pythonpep8autoformat 'Python PEP8 Autoformat'`
+
