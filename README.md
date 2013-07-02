@@ -41,10 +41,23 @@ More plugins can be found [here](https://github.com/wbond/sublime_package_contro
 
 #### GIT support in Sublime Text 3
 
-The best plugin is [Git](https://github.com/kemayo/sublime-text-2-git/tree/python3). We have working version in branch `python3`.
+The best plugin is [Git](https://github.com/kemayo/sublime-text-2-git/tree/python3).
+Branch `python3`.
 
  - go to "Packages" folder
  - `git clone https://github.com/kemayo/sublime-text-2-git.git Git`
  - `cd Git`
  - `git checkout python3`
  - Open "Command palette" and type `git:` to see list of commands
+
+
+#### SublimeLinter support in Sublime Text 3
+
+The best plugin is [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter/tree/sublime-text-3).
+Branch `sublime-text-3`.
+
+ - go to "Packages" folder
+ - `git clone https://github.com/SublimeLinter/SublimeLinter.git`
+ - `cd SublimeLinter`
+ - `git checkout sublime-text-3`
+ 
