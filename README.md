@@ -36,6 +36,9 @@ You can read [official Sublime Text documentation](http://docs.sublimetext.info/
 Install Sublime Text 3 compatible plugins
 --------
 
+More plugins can be found [here](https://github.com/wbond/sublime_package_control/wiki/Sublime-Text-3-Compatible-Packages).
+
+
 #### GIT support in Sublime Text 3
 
 The best plugin is [Git](https://github.com/kemayo/sublime-text-2-git/tree/python3). We have working version in branch `python3`.
